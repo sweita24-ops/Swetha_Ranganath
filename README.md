@@ -23,7 +23,7 @@ I build enterprise AI experiences, agentic orchestration platforms, model fine-t
 
 | Artifact / Publication | Focus | Impact / Role |
 | :--- | :--- | :--- |
-| **[Office Comprehension Benchmark](https://huggingface.co/microsoft/OfficeComprehensionBenchmark)** | LLM evaluation on enterprise document comprehension[cite: 1] | Product Lead for Eval Framework[cite: 1] |
+| **[Office Comprehension Benchmark]([https://huggingface.co/microsoft/OfficeComprehensionBenchmark](https://arxiv.org/pdf/2607.01245)** | LLM evaluation on enterprise document comprehension[cite: 1] | Product Lead for Eval Framework[cite: 1] |
 | **[MASSIVE Dataset (arXiv:2204.08582)](https://arxiv.org/abs/2204.08582)**[cite: 1] | 1M utterances across 51 languages for NLU research[cite: 1] | Open-Source & GTM Lead (Amazon)[cite: 1] |
 | **[M365 Copilot Tuning Overview](https://learn.microsoft.com/en-us/microsoft-365-copilot/developer/copilot-tuning-overview)**[cite: 1] | Teaching AI enterprise-specific workflows & multi-agent coordination[cite: 1] | Founding Product Member (Microsoft)[cite: 1] |
 
