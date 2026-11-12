@@ -31,6 +31,12 @@ Formerly shaping Microsoft 365 Copilot and Amazon Alexa AI, I focus on bringing 
 - Defined a new user elicitation model to help people express what they want to accomplish and get things done directly in chat.
 - Public reference: [Use Copilot Chat for long-running, multi-step work](https://support.microsoft.com/en-us/microsoft-365-copilot/use-copilot-chat-for-long-running-multi-step-work)
 
+### Copilot Chat Skills
+
+- Directly drove the Copilot Chat skills experience, helping bring skills to users as a way to create reusable, task-specific capabilities in chat.
+- Contributed to the feature experience across both skill creation and editing for end users, as well as the extensibility and development path for Copilot Chat skills.
+- Public references: [Build Copilot Chat skills](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/build-copilot-chat-skills) · [Create and edit skills with Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/create-edit-skills-copilot)
+
 ### Scheduled Tasks in Copilot
 
 - Currently working on scheduled tasks in Copilot.
@@ -124,3 +130,5 @@ I am passionate about creating AI experiences that help people work smarter, fas
 - [MASSIVE paper — arXiv](https://arxiv.org/abs/2204.08582)
 - [Microsoft 365 Copilot Tuning Overview](https://learn.microsoft.com/en-us/microsoft-365-copilot/developer/copilot-tuning-overview)
 - [Use Copilot Chat for long-running, multi-step work](https://support.microsoft.com/en-us/microsoft-365-copilot/use-copilot-chat-for-long-running-multi-step-work)
+- [Build Copilot Chat skills](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/build-copilot-chat-skills)
+- [Create and edit skills with Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/create-edit-skills-copilot)
