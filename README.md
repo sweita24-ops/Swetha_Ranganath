@@ -35,7 +35,11 @@ Formerly shaping Microsoft 365 Copilot and Amazon Alexa AI, I focus on bringing 
 
 - Directly drove the Copilot Chat skills experience, helping bring skills to users as a way to create reusable, task-specific capabilities in chat.
 - Contributed to the feature experience across both skill creation and editing for end users, as well as the extensibility and development path for Copilot Chat skills.
-- Public references: [Build Copilot Chat skills](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/build-copilot-chat-skills) · [Create and edit skills with Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/create-edit-skills-copilot)
+- **Helped bring Skills to general availability in Microsoft Copilot Chat:** turning repeatable, multi-step work into reusable experiences that Copilot can invoke automatically when relevant—or that people can call on explicitly.
+- Users can create a skill by describing what they need to Copilot, upload existing skills, and discover and use skills and plugins published by organization admins or independent software vendors.
+- Public announcement: [Skills are generally available in Microsoft Copilot Chat](https://lnkd.in/p/d3XchfHi) · [Watch the demo](https://lnkd.in/gZiB3AZ9)
+- Learn more: [Create skills in Copilot Chat](https://lnkd.in/g_MGtqNj) · [Build with WorkIQ Dev Tools](https://lnkd.in/gEzakYHq) · [WorkIQ Dev Tools resources](https://lnkd.in/gYaKmHdd) · [Skills and plugins by organization admins](https://lnkd.in/g69sS68g) · [Publish a plugin to Microsoft marketplace](https://lnkd.in/g7r5smHC) · [Microsoft 365 admin center announcement](https://lnkd.in/gAVMCjBm) · [Recent plugins announcement](https://lnkd.in/gqJKnpCP)
+- Additional references: [Build Copilot Chat skills](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/build-copilot-chat-skills) · [Create and edit skills with Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/create-edit-skills-copilot)
 
 ### Scheduled Tasks in Copilot
 
@@ -81,9 +85,9 @@ Formerly shaping Microsoft 365 Copilot and Amazon Alexa AI, I focus on bringing 
 
 | Artifact / Publication | Focus | Impact / Role |
 | :--- | :--- | :--- |
-| [Office Comprehension Benchmark](https://huggingface.co/microsoft/OfficeComprehensionBenchmark) | Enterprise document comprehension evaluation | Benchmark for AI understanding of business workflows and document context |
+| [Office Comprehension Benchmark](https://huggingface.co/microsoft/OfficeComprehensionBenchmark) | Enterprise document comprehension evaluation | Benchmark for AI understanding of business workflows |
 | [MASSIVE Dataset (arXiv:2204.08582)](https://arxiv.org/abs/2204.08582) | Multilingual spoken language understanding | Open-source and GTM lead at Amazon |
-| [Microsoft 365 Copilot Tuning Overview](https://learn.microsoft.com/en-us/microsoft-365-copilot/developer/copilot-tuning-overview) | Enterprise AI tuning and adaptation | Framework for enterprise task learning and workflow customization |
+| [Microsoft 365 Copilot Tuning Overview](https://learn.microsoft.com/en-us/microsoft-365-copilot/developer/copilot-tuning-overview) | Enterprise AI tuning and adaptation | Framework for enterprise model customization |
 
 ---
 
@@ -115,7 +119,7 @@ Frameworks       :: Enterprise AI Governance, Responsible AI, Human-in-the-Loop 
 
 ## 📌 Summary
 
-I am passionate about creating AI experiences that help people work smarter, faster, and with more confidence in complex enterprise environments. My work spans product leadership, platform thinking, AI evaluation, and real-world deployment of intelligent systems.
+I am passionate about creating AI experiences that help people work smarter, faster, and with more confidence in complex enterprise environments. My work spans product leadership, platform thinking, and the practical application of AI research to real-world workflows.
 
 > Turning AI research into products people can trust and use in the real world.
 
